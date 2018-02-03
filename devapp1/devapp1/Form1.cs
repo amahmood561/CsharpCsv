@@ -33,7 +33,7 @@ namespace devapp1
             using (var reader = new StreamReader(@"C:\Users\A_mah\Documents\test.csv"))
             {
                 List<string> listA = new List<string>();
-                List<string> listB = new List<string>();
+                //List<string> listB = new List<string>();
                 while (!reader.EndOfStream)
                 {
                     var line = reader.ReadLine();
