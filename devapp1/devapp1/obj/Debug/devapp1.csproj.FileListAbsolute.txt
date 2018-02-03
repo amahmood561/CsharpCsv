@@ -1,0 +1,10 @@
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\bin\Debug\devapp1.exe.config
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\bin\Debug\devapp1.exe
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\bin\Debug\devapp1.pdb
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.csprojResolveAssemblyReference.cache
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.Form1.resources
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.Properties.Resources.resources
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.csproj.GenerateResource.Cache
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.csproj.CoreCompileInputs.cache
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.exe
+C:\Users\A_mah\Documents\c#testproj\devapp1\devapp1\obj\Debug\devapp1.pdb
