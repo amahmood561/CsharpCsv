@@ -37,11 +37,11 @@ namespace devapp1
                 while (!reader.EndOfStream)
                 {
                     var line = reader.ReadLine();
-                    var values = line.Split(',');
+                    //var values = line.Split(',');
                     MessageBox.Show(line.ToString());
                     //MessageBox.Show(values.ToString());
 
-                    listA.Add(values.ToString());
+                    //listA.Add(values.ToString());
                     //listB.Add(values[1]);
                 }
             }
