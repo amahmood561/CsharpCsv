@@ -39,7 +39,7 @@ namespace devapp1
                     var line = reader.ReadLine();
                     var values = line.Split(',');
                     MessageBox.Show(line.ToString());
-                    MessageBox.Show(values.ToString());
+                    //MessageBox.Show(values.ToString());
 
                     listA.Add(values.ToString());
                     //listB.Add(values[1]);
