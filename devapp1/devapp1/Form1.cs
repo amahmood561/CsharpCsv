@@ -27,5 +27,24 @@ namespace devapp1
             File.AppendAllText(Pathofcsv, csvtest.ToString());
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            using (var reader = new StreamReader(@"C:\Users\A_mah\Documents\test.csv"))
+            {
+                List<string> listA = new List<string>();
+                List<string> listB = new List<string>();
+                while (!reader.EndOfStream)
+                {
+                    var line = reader.ReadLine();
+                    var values = line.Split(',');
+                    MessageBox.Show(line.ToString());
+                    MessageBox.Show(values.ToString());
+
+                    listA.Add(values.ToString());
+                    //listB.Add(values[1]);
+                }
+            }
+        }
     }
 }
